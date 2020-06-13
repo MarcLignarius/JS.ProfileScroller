@@ -1,11 +1,11 @@
 const data = [
   {
-    name: 'John Doe',
+    name: 'Maria Salazar',
     age: 32,
-    gender: 'male',
-    lookingFor: 'female',
+    gender: 'female',
+    lookingFor: 'male',
     location: 'Portland OR',
-    image: 'https://randomuser.me/api/portraits/men/82.jpg',
+    image: 'https://randomuser.me/api/portraits/women/12.jpg',
   },
   {
     name: 'Jane Smith',
@@ -13,15 +13,15 @@ const data = [
     gender: 'female',
     lookingFor: 'male',
     location: 'Miami FL',
-    image: 'https://randomuser.me/api/portraits/women/82.jpg',
+    image: 'https://randomuser.me/api/portraits/women/15.jpg',
   },
   {
-    name: 'William Johnson',
+    name: 'Tiffany Lauren',
     age: 38,
-    gender: 'male',
+    gender: 'female',
     lookingFor: 'female',
     location: 'Salem OR',
-    image: 'https://randomuser.me/api/portraits/men/83.jpg',
+    image: 'https://randomuser.me/api/portraits/women/17.jpg',
   },
 ];
 
